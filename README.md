@@ -8,7 +8,7 @@
 
   
   <h2>URL✔</h2>
-  <p>https://christmas-gifts-challenges-8h.vercel.app/</p>
+  <p>https://orderin-ui.vercel.app/</p>
   <h2>Technologiess</h2>
 <ul>
   <li>React JS</li>
